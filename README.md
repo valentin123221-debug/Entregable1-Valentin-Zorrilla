@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Simulador de Estudiantes</title>
+</head>
+<body>
+    <h1>Simulador de Gestión de Estudiantes</h1>
+    <p>Este simulador permite gestionar una lista de estudiantes, registrando su nombre, edad y calificaciones. A través de funciones interactivas, se pueden agregar nuevos estudiantes, visualizar la lista completa y calcular el promedio de calificaciones de un estudiante específico.</p>
+    <script src="main.js"></script>
+    Entregable1-Valentin Zorrilla
+</body>
